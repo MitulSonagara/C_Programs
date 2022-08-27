@@ -1,4 +1,4 @@
-/*Write a code to find the fibonacci series of entered terms*/
+/*Write a code to find the fibonacci series of entered terms */
 
 #include <stdio.h>
 

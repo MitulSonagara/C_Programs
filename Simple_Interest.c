@@ -4,7 +4,7 @@
  p = Principal amount 
  r = Rate of interest 
  n = Number of years*/
-
+ 
  #include<stdio.h>
  #include<conio.h>
 

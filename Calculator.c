@@ -10,7 +10,7 @@ int main()
     scanf("%d", &a);
 
     printf("Enter the second number : ");
-    scanf("%d", &b);
+    scanf("%d", &b); 
 
 label:
     printf("\n\nEnter 1 for addition.");
